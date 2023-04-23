@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Data {
 
-    static final String outputFilePath  = "..\\purchases.txt";
+    static final String outputFilePath  = "purchases.txt";
 
     // Saving all purchases to the file
     static void saveData() {
